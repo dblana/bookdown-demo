@@ -2,6 +2,8 @@ This is a minimal example of a book based on R Markdown and **bookdown** (https:
 
 You can find the preview of this example at https://bookdown.org/yihui/bookdown-demo/.
 
+My book is on GitHub pages: https://dblana.github.io/bookdown-demo/
+
 Notes: 
 
 - in RStudio, "Build Book" instead of Knit (otherwise navigation did not work for me)
